@@ -1,8 +1,20 @@
-# React + Vite
+# 📋 Courses App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bu proje, farklı kurslara erişim ve yönetim imkanı sunan bir uygulama. Kullanıcılar, ilgi alanlarına göre kursları keşfedebilir ve kendilerine uygun olanları kaydedebilirler.
 
-Currently, two official plugins are available:
+## 🛠️ Özellikler
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ✅ Kullanıcılar kursları görüntüleyebilir.
+- ✅ Favori kursları kaydedebilirler.
+- ✅ Kurs bilgileri detaylı bir şekilde sunulur.
+
+## 🛠️ Kullanılan Teknolojiler
+
+- **React**: Kullanıcı arayüzü geliştirmek için kullandım.
+- **Axios**: API isteklerini yönetmek için kullandım.
+- **CSS**: Uygulamanın stilini oluşturmak için kullandım.
+
+## 📧 İletişim
+
+Herhangi bir sorunuz varsa bana şu adresten ulaşabilirsiniz:  
+**Email**: okmssmemet@gmail.com
