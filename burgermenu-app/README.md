@@ -1,8 +1,19 @@
-# React + Vite
+# 📋 Burger Menu App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bu proje, kullanıcıların menüyü açıp kapatarak etkileşimde bulunabileceği bir navigasyon uygulamasıdır. Genellikle, küçük ekranlarda veya mobil cihazlarda kullanılmak üzere tasarlanmış, kullanıcı dostu bir arayüze sahip.
 
-Currently, two official plugins are available:
+## 🛠️ Özellikler
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ✅ Açılır menü işlevselliği sağlar.
+- ✅ Kullanıcıların menü öğeleri arasında geçiş yapmasına olanak tanır.
+- ✅ Basit ve modern bir tasarım sunar.
+
+## 🛠️ Kullanılan Teknolojiler
+
+- **React**: Kullanıcı arayüzü geliştirmek için kullanılmış.
+- **CSS**: Uygulamanın stilini oluşturmak için kullanılmış.
+
+## 📧 İletişim
+
+Herhangi bir sorunuz varsa bana şu adresten ulaşabilirsiniz:  
+**Email**: okmssmemet@gmail.com
