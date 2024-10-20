@@ -1,8 +1,20 @@
-# React + Vite
+# 📋 MUI Card App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bu proje, Material-UI kullanarak kart bileşenleri oluşturmaya odaklanıyor. Modern tasarım ve kullanıcı deneyimi sunarak kullanıcıların içerikleri daha estetik bir şekilde görüntülemesine olanak tanır.
 
-Currently, two official plugins are available:
+## 🛠️ Özellikler
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ✅ Material-UI ile şık kart tasarımları.
+- ✅ Kullanıcıların içerikleri kolayca görüntülemesi.
+- ✅ Responsive tasarım ile tüm cihazlarda uyumlu kullanım.
+
+## 🛠️ Kullanılan Teknolojiler
+
+- **React**: Kullanıcı arayüzü geliştirmek için kullandım.
+- **Material-UI**: Kullanıcı arayüzü bileşenleri için kullandım.
+- **CSS**: Uygulamanın stilini oluşturmak için kullandım.
+
+## 📧 İletişim
+
+Herhangi bir sorunuz varsa bana şu adresten ulaşabilirsiniz:  
+**Email**: okmssmemet@gmail.com
