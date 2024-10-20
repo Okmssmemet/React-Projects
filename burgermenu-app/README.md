@@ -10,8 +10,8 @@ Bu proje, kullanıcıların menüyü açıp kapatarak etkileşimde bulunabilece�
 
 ## 🛠️ Kullanılan Teknolojiler
 
-- **React**: Kullanıcı arayüzü geliştirmek için kullanılmış.
-- **CSS**: Uygulamanın stilini oluşturmak için kullanılmış.
+- **React**: Kullanıcı arayüzü geliştirmek için kullandım.
+- **CSS**: Uygulamanın stilini oluşturmak için kullandım.
 
 ## 📧 İletişim
 
